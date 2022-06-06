@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	int c,i;
+	int c, i;
 
 	for (c = '0'; c <= '9'; c++)
 	{
@@ -28,5 +28,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-}
-		
+}		
