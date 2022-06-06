@@ -2,8 +2,8 @@
 
 /**
  * main - printing combination of three numbers
- *Description: print all possible combinations
- * return: always 0 (Sucess)
+ * Description: all possible combinations
+ * Return: Always 0 (success)
  */
 int main(void)
 {
