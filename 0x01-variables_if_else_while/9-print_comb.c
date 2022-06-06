@@ -2,8 +2,8 @@
 #include <unistd.h>
 /**
  * main - entry point
- * description: number printing
- * return: Always 0
+ * description: prints umbers
+ * return: Always 0 (success)
  */
 int main(void)
 {
