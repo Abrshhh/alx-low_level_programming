@@ -3,8 +3,8 @@
 #include <time.h>
 /**
  * main - entry
- * description: last digit of the assigned variables
- * return: Always 0 (success)
+ * Description: last digit of the assigned variables
+ * Return: Always 0 (success)
  */
 int main(void)
 {
