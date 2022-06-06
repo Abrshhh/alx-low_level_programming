@@ -3,13 +3,13 @@
 /**
  * main - entry point
  * description: number printing
- * return: Always 0 
+ * return: Always 0
  */
 int main(void)
 {
 	int i;
 
-	for (i = '0'; i<= '9' ; i++)
+	for (i = '0'; i <= '9' ; i++)
 			{
 			putchar(i);
 
@@ -19,7 +19,6 @@ int main(void)
 			putchar(' ');
 			}
 			}
-			
-	putchar('\n');
+			putchar('\n');
 	return (0);
 }
