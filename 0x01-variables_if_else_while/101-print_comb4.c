@@ -3,15 +3,14 @@
 /**
  * main - printing combination of three numbers
  *Description: print all possible combinations
- * return: always (Sucess)
+ * return: always 0 (Sucess)
  */
 int main(void)
 {
 	int c;
 	int i;
 	int k;
-	
-	for (c = '0'; c <= '9'; c++)
+		for (c = '0'; c <= '9'; c++)
 	{
 		for (i = '0'; i <= '9'; i++)
 		{
