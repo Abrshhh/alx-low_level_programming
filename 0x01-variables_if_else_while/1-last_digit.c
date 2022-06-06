@@ -4,7 +4,7 @@
 /**
  * main - entry
  * description: last digit
- * return: 0
+ * return: Always 0 (success)
  */
 int main(void)
 {
