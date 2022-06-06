@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - entry
- * description: last digit
+ * description: last digit of the assigned variables
  * return: Always 0 (success)
  */
 int main(void)
