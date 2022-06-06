@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - entry point
+ * main - Entry point
  * description: prints umbers
  * return: Always 0 (success)
  */
