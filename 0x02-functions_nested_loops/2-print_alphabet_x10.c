@@ -6,6 +6,7 @@
  * Description: 10x
  * Return: void
  */
+
 void print_alphabet_x10(void)
 {
 	char c;
