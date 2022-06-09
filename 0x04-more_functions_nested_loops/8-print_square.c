@@ -2,7 +2,7 @@
 #include "main.h"
 /**
  * print_square - dig
- * @n: print _
+ * @n: print it
  * Return: void
  */
  void print_square(int n)
