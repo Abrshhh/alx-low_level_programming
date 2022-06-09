@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * print_most_numbers - 0-9
+ * print_most_numbers - 0 to 9
  * Description: print
  * Return: void
  */
@@ -13,7 +13,7 @@ void print_most_numbers(void)
 	{
 		if (a != 2 && a != 4)
 		{
-			putchar(a += '0');
+			putchar(a + '0');
 		}
 		a++;
 	}
