@@ -2,7 +2,7 @@
 /**
  * puts_half - 2nd half
  * @str: str ref
- * return: 0
+ * Return: 0
  */
 void puts_half(char *str)
 {
