@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * *_strcpy - cp
+ * _strcpy - cp
  * @dest: char
  * @src: char
  * Description: cp
