@@ -4,7 +4,7 @@
  * @dest: char
  * @src: char
  * Description: cp
- * return: pointer
+ * Return: pointer
  */
 char *_strcpy(char *dest, char *src)
 {
