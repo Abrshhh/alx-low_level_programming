@@ -3,7 +3,7 @@
 /**
  * *strdup - cpoy str
  * @str: str dup
- * return: pointer to cpd str
+ * return: pointer to cpd str-Null
  */
 char *_strdup(char *str)
 {
