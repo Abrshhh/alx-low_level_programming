@@ -1,5 +1,5 @@
 #include "main.h"
-//factorial is n * (n-1)//
+/*factorial is n * (n-1)*/
 int factorial(int n)
 {
 	if (n == 0)
