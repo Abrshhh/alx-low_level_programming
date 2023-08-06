@@ -7,8 +7,8 @@
  * return: always 0 (completed)
  */
 int main(int argc, char *argv[])
-	int sum;
-	sum = atoi(argv[1]) + atoi(argv[2]);
+{	int sum;
+	sum = atoi(argv[1]) * atoi(argv[2]);
 	if (argc == 3)
 {
 	printf("%d\n", sum);
@@ -16,6 +16,7 @@ int main(int argc, char *argv[])
 return(0);
 	else
 {
-	printf("Error");
+	printf("Error\n");
 	return(1);
+}
 }
