@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include "main.h"
-/*argc - no of arguments
- * argv - array of strings of arguments
+/*
+ * @argc - no of arguments
+ * @argv - array of strings of arguments
  * @main
  */
 int main(int argc, char *argv[])
