@@ -4,6 +4,9 @@
  * **alloc_grid  create a 2 d array of int
  * @width: width of matrix
  * @height: height of matrix
+ *
+ * Return: pointer to matrix (success)
+ * or NULL (error)
  */
 int **alloc_grid(int width, int height)
 {
