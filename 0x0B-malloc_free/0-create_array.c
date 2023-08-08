@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include "main.h"
-/* 
+/*
  * @c: initialized char
  * @create array: creates an array of chars,
  * and initializes it with a specific char
