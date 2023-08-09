@@ -12,15 +12,15 @@ int main(int argc, char *argv[])
 	int product = 0;
 	product = _atoi(argv[1]) * _atoi(argv[2]);
 	if (argc == 3)
-{
+	{
 	printf("%d\n", product);
 
-return(0);
-}
+	return (0);
+	}
 	else
-{
+	{
 
 	printf("Error\n");
-	return(1);
-}
+	return (1);
+	}
 }
