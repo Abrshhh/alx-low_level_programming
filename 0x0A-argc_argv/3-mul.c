@@ -4,6 +4,7 @@
 /*
  * main - prints all function it recieves
  * @argc: prints the number of arguments
+ * @atoi: changes str to int
  * argv: prints string of arguments
  * Return: always 0 (completed)
  */
