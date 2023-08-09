@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * @argc - no of arguments
- * @argv - array of strings of arguments
- * @main
+ * main - command line arguments
+ * @argc: no of arguments
+ * @argv: array of strings of arguments
+ * Return: 0(success)
  */
 int main(int argc, char *argv[])
 {
