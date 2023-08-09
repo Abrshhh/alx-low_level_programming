@@ -5,7 +5,7 @@
  * main - prints all function it recieves
  * @argc: prints the number of arguments
  * @atoi: changes str to int
- * argv: prints string of arguments
+ * @argv: prints string of arguments
  * Return: always 0 (completed)
  */
 int main(int argc, char *argv[])
@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
 	printf("%d\n", product);
 	return (0);
 	}
-	
+
 	else
 	{
 	printf("Error\n");
