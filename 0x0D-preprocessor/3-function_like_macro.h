@@ -1,2 +1,2 @@
 #include <stdio.h>
-#define ABS(x) 
+#define ABS(x) ((N<0)?(-N):(N))
