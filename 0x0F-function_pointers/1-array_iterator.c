@@ -1,5 +1,3 @@
-#ifndef FUNC_H
-#include <stddef.h>
 #include <stdio.h>
 #include "function_pointers.h"
 /**
