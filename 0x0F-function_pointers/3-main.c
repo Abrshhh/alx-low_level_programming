@@ -1,6 +1,6 @@
 #include "3-calc.h"
 /**
- * main _ perform simple operation
+ * main - perform simple operation
  * @argc: no of arg
  * @argv: arr of arg
  *
@@ -15,7 +15,7 @@ int main(int argc, char *argv[])
 	if (argc != 4)
 	{
 		printf("Error\n");
-		exit (98);
+		exit(98);
 	}
 
 	arg1 = atoi(argv[1]);
@@ -26,7 +26,15 @@ int main(int argc, char *argv[])
 	if (!func)
 	{
 		printf("Error\n");
-		exit (100);
+		exit(99);
+	}
+
+	o = *argv[2];
+
+	if ((o == '/' || o == '%') && arg2 == 0)
+	{
+		printf("Error\n");
+		exit(100);
 	}
 
 	result = func(arg1, arg2);
