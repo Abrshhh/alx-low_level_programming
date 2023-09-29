@@ -1,7 +1,7 @@
 #include <stdio.h>
-#include "main.h" 
+#include "main.h"
 /**
- * print alphabet -entry
+ * print_alphabet - entry
  * Description: print alphabet in lowercase
  * Return: void
  */
